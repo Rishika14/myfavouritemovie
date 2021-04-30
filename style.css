@@ -1,0 +1,37 @@
+body
+{
+    font-family: 'Pacifico', cursive;
+}
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px green;
+}
+.note
+{
+    font-size: 14px;
+    color: blueviolet;
+}
+.copy_right_footer
+{
+    position: fixed;
+    color: white;
+    bottom: 10;
+    width: 100%;
+    background-color: grey;
+    line-height: 3;
+    text-align: center;
+    box-shadow: 10px 10px 10px black;
+    font-size: 12.2px;
+}
+canvas
+{
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px grey;
+}
+p {
+    font-size: 20px;
+}
